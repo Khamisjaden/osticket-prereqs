@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,14 +21,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create a Virtual Machine through Microsoft Azure
 - Download Osticket Installation file and unzip it onto the Desktop
-- Item 3
-- Item 4
-- Item 5
+- OsTicket Up and Running
 
 <h2>Installation Steps</h2>
 
 <p>
-<img <img width="691" alt="Screenshot 2025-01-31 at 10 15 48" src="https://github.com/user-attachments/assets/7f21cbc9-407d-48e8-aac5-81b026bbc109" />
 
 </p>
 <p>
@@ -42,15 +36,16 @@ I set up an OSTicket folder using a Microsoft virtual machine. Then, I copied th
 <p>
 <img <img width="410" alt="Screenshot 2025-01-31 at 10 28 52" src="https://github.com/user-attachments/assets/0354a93c-aba1-4922-a1e9-a656c53ee9bf" />
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<p> I installed PHP Manager, the Rewrite module, VC Redist, MYSQL, and other necessary components inside the osticket folder to get osTicket up and running.
+</p><img width="346" alt="Screenshot 2025-01-31 at 12 44 06" src="https://github.com/user-attachments/assets/27e506d6-7186-4d35-aabf-769505b055c2" />
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+OsTicket is now sccessfully up and running, ready for both administrators and end users.
+</p> <img width="305" alt="Screenshot 2025-01-31 at 12 54 56" src="https://github.com/user-attachments/assets/1bc57629-ff1c-45ba-bb14-79c84da02504" />
+
 <br />
